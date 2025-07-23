@@ -1,7 +1,8 @@
+<img src="whitetipped_sockets.svg" alt="WhiteTipeedSockets" width="200" />
+
 # WhiteTippedSockets
 
 ![Swift Package](https://img.shields.io/badge/Swift-6.0-orange.svg)
-![WhiteTippedSockets](WhiteTippedSockets.png)
 
 ## Overview
 
